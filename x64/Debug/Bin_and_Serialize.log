@@ -1,0 +1,4 @@
+﻿  erof_queue_main.cpp
+c:\users\andrey\source\repos\bin_and_serialize\bin_and_serialize\erof_queue_main.cpp(57): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Bin_and_Serialize.vcxproj -> C:\Users\Andrey\source\repos\Bin_and_Serialize\x64\Debug\Bin_and_Serialize.exe
+  Bin_and_Serialize.vcxproj -> C:\Users\Andrey\source\repos\Bin_and_Serialize\x64\Debug\Bin_and_Serialize.pdb (Partial PDB)
